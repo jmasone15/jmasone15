@@ -1,7 +1,3 @@
-# 💫 About Me:
-Software developer <br>Focus in Full Stack Development and Low-Code Applications<br>Currently learning Python and Java<br>Ask me about how to improve your tech resume!!!<br>Love everything and anything Nintendo
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/BbZaB2cdCQ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jordan-masone-537943200) 
 
